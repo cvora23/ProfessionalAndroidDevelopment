@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cvora.chapter4_building_user_interfaces">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="c4_building_ui.ViewStubExamples.StaticViewStubActivity" />
+        <activity android:name="c4_building_ui.ViewStubExamples.DynamicViewStubActivity" />
+        <activity android:name="c4_building_ui.Simple_TodoList.SimpleToDoListActivity" />
+        <activity android:name="c4_building_ui.FragmentBased_TodoList.FragmentTodoListActivity" />
+        <activity android:name="c4_building_ui.Customized_TodoList.CustomizedTodoListActivity" />
+        <activity android:name="c4_building_ui.SimpleTodoListWithCompundView.SimpleTodoListCompoundViewActivity"></activity>
+    </application>
+
+</manifest>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProfessionalAndroidDevelopment.iml" filepath="$PROJECT_DIR$/ProfessionalAndroidDevelopment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_building_ui/chapter4_building_user_interfaces.iml" filepath="$PROJECT_DIR$/c4_building_ui/chapter4_building_user_interfaces.iml" />
     </modules>
   </component>
 </project>
