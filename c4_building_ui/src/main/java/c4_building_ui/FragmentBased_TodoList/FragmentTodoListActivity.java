@@ -24,7 +24,6 @@ public class FragmentTodoListActivity extends AppCompatActivity implements NewIt
 
         todoItems = new ArrayList<String>();
         arrayAdapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,todoItems);
-
         todoListFragment.setListAdapter(arrayAdapter);
 
     }

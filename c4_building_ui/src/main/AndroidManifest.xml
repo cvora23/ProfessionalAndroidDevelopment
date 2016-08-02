@@ -13,7 +13,9 @@
         <activity android:name="c4_building_ui.Simple_TodoList.SimpleToDoListActivity" />
         <activity android:name="c4_building_ui.FragmentBased_TodoList.FragmentTodoListActivity" />
         <activity android:name="c4_building_ui.Customized_TodoList.CustomizedTodoListActivity" />
-        <activity android:name="c4_building_ui.SimpleTodoListWithCompundView.SimpleTodoListCompoundViewActivity"></activity>
+        <activity android:name="c4_building_ui.SimpleTodoListWithCompundView.SimpleTodoListCompoundViewActivity" />
+        <activity android:name="c4_building_ui.CompassProject_CustomView.CompassActivity" />
+        <activity android:name="c4_building_ui.CustomizedTodoListArrayAdapter.TodoListActivity"></activity>
     </application>
 
 </manifest>
